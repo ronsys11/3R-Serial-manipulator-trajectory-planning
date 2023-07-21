@@ -4,5 +4,6 @@ The manipulator assembly zip folder has the Solidworks CAD files, Which can be e
 
 ![image](https://github.com/ronsys11/3R-Serial-manipulator-trajectory-planning/assets/84351843/8f14d846-4195-464c-b9b3-52ba2508d9d8)
 ![image](https://github.com/ronsys11/3R-Serial-manipulator-trajectory-planning/assets/84351843/ead8e0c1-5dde-438d-b24e-a0742c19a193)
-https://github.com/ronsys11/3R-Serial-manipulator-trajectory-planning/assets/84351843/62c8a96c-795b-4535-9842-d1382f8f5602
 
+
+![ezgif com-video-to-gif](https://github.com/ronsys11/3R-Serial-manipulator-trajectory-planning/assets/84351843/4a7cb4d5-6d6a-403f-8511-6055e2acf6fa)
